@@ -62,12 +62,12 @@ Make sure you have Node.js and npm installed on your machine.
 
 1.  **Clone the repository:**
     ```sh
-    git clone [https://github.com/your-username/react-markdown-converter.git](https://github.com/your-username/react-markdown-converter.git)
+    git clone https://github.com/R4F405/markdown-to-html-converter.git
     ```
 
 2.  **Navigate to the project directory:**
     ```sh
-    cd react-markdown-converter
+    cd markdown-to-html-converter
     ```
 
 3.  **Install NPM packages:**
