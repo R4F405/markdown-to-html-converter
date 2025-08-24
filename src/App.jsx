@@ -154,7 +154,7 @@ ${previewElement.innerHTML}
 
         {/* Footer */}
         <footer className="text-center mt-8 text-slate-500 text-sm">
-          <p>Built for Developers & Writers • Supports Standard Markdown</p>
+          <p>Built for Developers & Writers by <a href="https://github.com/R4F405" target="_blank" rel="noopener noreferrer" className="text-blue-500 hover:underline">R4F405</a> • Supports Standard Markdown</p>
         </footer>
       </div>
     </div>
